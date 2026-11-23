@@ -26,6 +26,7 @@ ld fileName.o -o fileName
 
 ### Basic Program
 
-| Sr. No. | Program Name    | Description                           |             Source File             |
-| :-----: | :-------------- | :------------------------------------ | :---------------------------------: |
-|    1    | **Hello World** | Simple program to display hello world | [View Code](./Basic/helloWorld.asm) |
+| Sr. No. | Program Name             | Description                                    |          Source File          |
+| :-----: | :----------------------- | :--------------------------------------------- | :---------------------------: |
+|    1    | **Hello World**          | Simple program to display hello world          | [View Code](./helloWorld.asm) |
+|    2    | **Arithmetic Operation** | Simple program to perform arithmetic operation | [View Code](./arithmetic.asm) |
