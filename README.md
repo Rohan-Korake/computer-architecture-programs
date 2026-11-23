@@ -31,3 +31,4 @@ ld fileName.o -o fileName
 |    1    | **Hello World**          | Simple program to display hello world          |  [View Code](./helloWorld.asm)   |
 |    2    | **Arithmetic Operation** | Simple program to perform arithmetic operation |  [View Code](./arithmetic.asm)   |
 |    3    | **Display String**       | Simple program to display string               | [View Code](./displayString.asm) |
+|    4    | **String Length**        | Simple program to display string Length        | [View Code](./stringLength.asm)  |
