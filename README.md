@@ -33,3 +33,4 @@ ld fileName.o -o fileName
 |    3    | **Display String**       | Simple program to display string               |    [View Code](./displayString.asm)    |
 |    4    | **String Length**        | Simple program to display string Length        |    [View Code](./stringLength.asm)     |
 |    5    | **String Concatenation** | Simple program to display string Concatenation | [View Code](./stringConcatenation.asm) |
+|    6    | **String Compare**       | Simple program to display string comparison    |    [View Code](./stringCompare.asm)    |
