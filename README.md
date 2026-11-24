@@ -42,3 +42,4 @@ ld fileName.o -o fileName
 |   12    | **String Palindrome**     | Simple program to display String Palindrome        |  [View Code](./stringOperations/stringPalindrome.asm)   |
 |   13    | **String Reverse**        | Simple program to display String Reverse           |    [View Code](./stringOperations/stringReverse.asm)    |
 |   14    | **String Operations**     | Simple program to display String Operations        |  [View Code](./stringOperations/stringOperations.asm)   |
+|   15    | **Successive Addition**   | Simple program to display Successive Addition      |    [View Code](./successive/successiveAddition.asm)     |
