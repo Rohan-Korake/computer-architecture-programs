@@ -26,16 +26,18 @@ ld fileName.o -o fileName
 
 ### Basic Program
 
-| Sr. No. | Program Name             | Description                                        |                               Source File                               |
-| :-----: | :----------------------- | :------------------------------------------------- | :---------------------------------------------------------------------: |
-|    1    | **Hello World**          | Simple program to display hello world              |                      [View Code](./helloWorld.asm)                      |
-|    2    | **Addition**             | Simple program to perform Addition operation       |             [View Code](./arithmeticOperations/additon.asm)             |
-|    3    | **Subtraction**          | Simple program to perform Subtraction operation    |           [View Code](./arithmeticOperations/subtraction.asm)           |
-|    4    | **Multiplication**       | Simple program to perform Multiplication operation |         [View Code](./arithmeticOperations/multiplication.asm)          |
-|    5    | **Division**             | Simple program to perform Division operation       |            [View Code](./arithmeticOperations/division.asm)             |
-|    6    | **Arithmetic Operation** | Simple program to perform arithmetic operation     |           [View Code](./arithmeticOperations/arithmetic.asm)            |
-|    7    | **Display String**       | Simple program to display string                   |            [View Code](./stringOperations/displayString.asm)            |
-|    8    | **String Length**        | Simple program to display string Length            |            [View Code](./stringOperations/stringLength.asm)             |
-|    9    | **String Concatenation** | Simple program to display string Concatenation     | [View Code](./stringOperations/stringOperations/tringConcatenation.asm) |
-|   10    | **String Compare**       | Simple program to display string comparison        |            [View Code](./stringOperations/stringCompare.asm)            |
-|   11    | **String Palindrome**    | Simple program to display string Palindrome        |          [View Code](./stringOperations/stringPalindrome.asm)           |
+| Sr. No. | Program Name              | Description                                        |                               Source File                               |
+| :-----: | :------------------------ | :------------------------------------------------- | :---------------------------------------------------------------------: |
+|    1    | **Hello World**           | Simple program to display hello world              |                      [View Code](./helloWorld.asm)                      |
+|    2    | **Addition**              | Simple program to perform Addition operation       |             [View Code](./arithmeticOperations/additon.asm)             |
+|    3    | **Subtraction**           | Simple program to perform Subtraction operation    |           [View Code](./arithmeticOperations/subtraction.asm)           |
+|    4    | **Multiplication**        | Simple program to perform Multiplication operation |         [View Code](./arithmeticOperations/multiplication.asm)          |
+|    5    | **Division**              | Simple program to perform Division operation       |            [View Code](./arithmeticOperations/division.asm)             |
+|    6    | **Arithmetic Operations** | Simple program to perform arithmetic operations    |           [View Code](./arithmeticOperations/arithmetic.asm)            |
+|    7    | **Display String**        | Simple program to display String                   |            [View Code](./stringOperations/displayString.asm)            |
+|    8    | **String Length**         | Simple program to display String Length            |            [View Code](./stringOperations/stringLength.asm)             |
+|    9    | **String Concatenation**  | Simple program to display String Concatenation     | [View Code](./stringOperations/stringOperations/tringConcatenation.asm) |
+|   10    | **String Compare**        | Simple program to display String comparison        |            [View Code](./stringOperations/stringCompare.asm)            |
+|   11    | **String Palindrome**     | Simple program to display String Palindrome        |          [View Code](./stringOperations/stringPalindrome.asm)           |
+|   12    | **String Reverse**        | Simple program to display String Reverse           |            [View Code](./stringOperations/stringReverse.asm)            |
+|   13    | **String Operations**     | Simple program to display String Operations        |          [View Code](./stringOperations/stringOperations.asm)           |
