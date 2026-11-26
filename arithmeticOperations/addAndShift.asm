@@ -1,6 +1,6 @@
 section .data 
-	msg1 db "Enter the first number : ",0
-	msg2 db "Enter the second number : ",0
+	msg1 db "Enter the first number :  ",0
+	msg2 db "Enter the second number :  ",0
 	fmt db "%lld",0
 	msg3 db "Multiplication  : %lld",10,0
 	

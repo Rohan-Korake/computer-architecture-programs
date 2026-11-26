@@ -2,9 +2,9 @@ section .data
 	msg1 db "Enter a,b,c : ",0
 	fmt db "%d",0
 	
-	msg2 db "Roots are Real and Distinct",10,0
-	msg3 db "Roots are Real and Eqaul",10,0
-	msg4 db "Roots are Imaginary",10,0
+	msg2 db "Roots are Real and Distinct ",10,0
+	msg3 db "Roots are Real and Eqaul ",10,0
+	msg4 db "Roots are Imaginary ",10,0
 
 section .bss
 	a resd 1
