@@ -15,7 +15,7 @@ nasm -f elf64 fileName.asm -o fileName.o
 #### **Step 2**: Link the Object File
 
 ```bash
-ld fileName.o -o fileName
+gcc fileName.o -o fileName -no-pie
 ```
 
 #### **Step 3**: Run the Executable
@@ -44,3 +44,5 @@ ld fileName.o -o fileName
 |   14    | **String Operations**                | Simple program to display String Operations                |  [View Code](./stringOperations/stringOperations.asm)   |
 |   15    | **Successive Addition**              | Simple program to display Successive Addition              |    [View Code](./successive/successiveAddition.asm)     |
 |   16    | **Menu Driven Arithmetic Operation** | Simple program to display Menu Driven Arithmetic Operation |      [View Code](./menuDriven/macroArithmetic.asm)      |
+|   17    | **Hexadecimal To BCD**               | Simple program to display Hedadecimal To BCD Conversion    |         [View Code](./conversions/hexToBcd.asm)         |
+|   18    | **BCD To Hexadecimal**               | Simple program to display BCD To Hedadecimal Conversion    |      [View Code](./menuDriven/macroArithmetic.asm)      |
